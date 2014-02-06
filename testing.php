@@ -1,3 +1,4 @@
 <?php 
-	echo "test" 
+	echo "test";
+	echo "more testing";
 ?>
